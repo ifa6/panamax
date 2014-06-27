@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Panamax::VERSION
   spec.authors       = ["Delaney Burke"]
   spec.email         = ["delaney.burke@coachinabox.biz"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Docker Container Crane}
+  spec.description   = %q{A simple docker container deployment and management tool}
+  spec.homepage      = "http://panamax.ciabos.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
